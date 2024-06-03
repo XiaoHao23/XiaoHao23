@@ -1,6 +1,7 @@
 # Hello, welcome to my GitHub homepage!
 
-I am LIANGJIAHAO, currently a graduate student at Kyung Hee University in South Korea. My area of interest is deep learning, and I am currently at the beginner stage of learning.
+I am LIANGJIAHAO, currently a graduate student at Kyung Hee University in South Korea. 
+My area of interest is deep learning, and I am currently at the beginner stage of learning.
 
 ## About Me
 - 🌱 Currently learning: Python/TensorFlow
