@@ -17,7 +17,6 @@ Thank you for visiting my homepage!
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>&nbsp;<br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>&nbsp;
 </div>
